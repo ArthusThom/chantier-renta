@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-fuzc*wn!4y_@1k3&!vk47xdx7urd0&@_tv%o+w0pk*8a_!0-jd
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['site-arthus.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['chantier-renta.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
